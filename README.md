@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @YurBro.I am currently a graduate student of Control Science and Engineering in China University of Petroleum, Beijing.
+- 👀 I’m interested in artificial intelligence, machine learning, fault diagnosis, scheduling optimization, deep learning and so on.
+- 🌱 At present, I am studying fault monitoring and diagnosis related to complex industrial processes. I am interested in deep learning and want to improve my diagnosis efficiency through deep learning technology. There are several projects about diagnosis at present, and I will share my project experience and some open-source code here.
+- 💞️ I’m looking to collaborate on ...
+- 📫 If you have any questions or comments on the code or anything else, email me at: yurz_control@163.com 
+- Current address: 18 Fuxue Road, China University of Petroleum, Beijing
