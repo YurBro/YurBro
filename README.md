@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YurBro.I am currently a PhD student of Chemical and Processes Engineering in University of Surrey, UK.
+- 👋 Hi, I’m @YurBro.I am currently a PhD student of Chemical and Processes Engineering at University of Surrey, UK.
 - 👀 I’m interested in artificial intelligence, machine learning, fault diagnosis, scheduling optimization, deep learning and so on.
 - 🌱 At present, I am studying fault monitoring and diagnosis related to complex industrial processes. I am interested in deep learning and want to improve my diagnosis efficiency through deep learning technology. There are several projects about diagnosis at present, and I will share my project experience and some open-source code here.
 - 💞️ I’m looking to collaborate on ...
